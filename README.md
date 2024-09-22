@@ -10,7 +10,7 @@
     
   <summary>👨‍💻 More about me<br></summary>
     
-   - 💬I am 24 years old, currently living in Brazil. I have fluency in English and I want to work with Java and software development in the future.<br><br>
+   - 💬I am 24 years old, currently living in Brazil. I have fluency in English and I want to work with Java and software development in the future.<br>
    
    - ⚡My goal is to actively contribute to projects that not only solve problems, but also provide an experience that fascinates users.I'm always open to learning and collaboration opportunities, eager to   
       explore the possibilities that the world of software development has to offer</p>
@@ -50,7 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo" />
 </div>
 
 ###
