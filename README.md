@@ -5,7 +5,7 @@
 <!-- Presentation -->
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
-<p align="left">💻 I’m currently learning about Frontend | Java | Design<br>🔭 I'm currently looking for my first job opportunity<br><br>
+<p align="left">💻 I’m currently learning about Frontend | React | Design<br>
   <details>
     
   <summary>👨‍💻 More about me<br></summary>
