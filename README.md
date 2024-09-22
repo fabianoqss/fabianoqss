@@ -5,15 +5,14 @@
 <!-- Presentation -->
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
-<p align="left">💻 I’m currently learning about Frontend | React | Design<br>
+<p align="left">💻 I’m currently learning about Frontend | React | Design
   <details>
     
   <summary>👨‍💻 More about me<br></summary>
     
-   - 💬I am 24 years old, currently living in Brazil. I have fluency in English and I want to work with Java and software development in the future.<br>
+   - 💬I am 24 years old, currently living in Brazil. I have fluency in English and I want to work with Java and software development in the future.
    
-   - ⚡My goal is to actively contribute to projects that not only solve problems, but also provide an experience that fascinates users.I'm always open to learning and collaboration opportunities, eager to   
-      explore the possibilities that the world of software development has to offer</p>
+   - ⚡My goal is to actively contribute to projects that not only solve problems, but also provide an experience that fascinates users. I'm always open to learning and collaboration opportunities, eager to explore the possibilities that the world of software development has to offer.</p>
   </details>
 
 ###
