@@ -5,7 +5,7 @@
 <!-- Presentation -->
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
-<p align="left">💻 I’m currently learning about Frontend | React | Design | Java
+<p align="left">💻 I’m currently learning about Java | Spring | GoLang | DevOps | AI & Python
   <details>
     
   <summary>👨‍💻 More about me<br></summary>
